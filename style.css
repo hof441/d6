@@ -1,0 +1,174 @@
+@font-face {
+    font-family: Amita;
+    src: url(/assets/fonts/Amita/Amita-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Amita;
+    src: url(/assets/fonts/Amita/Amita-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: Secular One;
+    src: url(/assets/fonts/Secular-One/SecularOne-Regular.ttf);
+    font-weight: 450;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/ınter/Inter-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/ınter/Inter-SemiBold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/ınter/Inter-Bold.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/ınter/Inter-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: Inter;
+    src: url(./assets/fonts/ınter/Inter-Regular.ttf);
+    font-weight: 410;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+   
+    height: 120px;
+    background-color: #1f262e;
+}
+
+.p_1{
+    font-family: Amita;
+    font-weight: 400;
+    font-size: 24px;
+    color: #fff;
+    margin-left: 2rem;
+    text-decoration: none;
+
+}
+
+.header_ul{
+    display: flex;
+    flex-direction: row;
+    margin-left: 53rem;
+}
+
+.header_li{
+    padding-left: 5rem;
+    list-style: none;
+    color: #fff;
+    font-family: 'Secular One' ;
+    font-weight: 450;
+}
+
+.header_img{
+    margin-left: 8rem;
+}
+
+.div_1{
+    background-color: black;
+    height: 1300px;
+    margin-top: -7rem;
+    background-image: url(./assets/images/image\ 4\ \(2\).svg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.h_1{
+    color: #fff;
+    font-family: 'Secular One' ;
+    font-size: 270px;
+    margin-top: 0rem;
+    text-align: center;
+    font-weight: 450;
+}
+
+.p_2{
+    color: #fff;
+    font-family: 'Inter';
+    font-size: 40px;
+    margin-top: -13rem;
+    margin-left: 8rem;
+}
+
+.img_1{
+    margin-left: 8rem;
+}
+
+.p_3{
+    color: #fff;
+    margin-left: 8rem;
+    font-family: 'Inter';
+    font-weight: 410;
+    font-size: 20px;
+    font-family: 'Secular One' ;
+}
+
+.p_4{
+    color: #fff;
+    margin-left: 90rem;
+    font-family: 'Secular One' ;
+    font-weight: 410;
+    font-size: 20px;
+}
+
+.h_2{
+    color: #fff;
+    margin-left: 8rem;
+    font-family: 'Secular One' ;
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 5rem;
+}
+
+.h_3{
+    color: #fff;
+    margin-left: 90rem;
+    margin-top: -11rem;
+    font-family: 'Secular One' ;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.img_2{
+    margin-left: 8rem;
+}
+
+.p_5{
+    margin-left: 12rem;
+    margin-top: -2rem;
+    color: #fff;
+    font-family: 'Secular One' ;
+    text-decoration: underline;
+}
+
+.img_3{
+    margin-left: 90rem;
+    margin-top: -3rem;
+}
+
+.p_6{
+    margin-left: 93rem;
+    margin-top: -2rem;
+    color: #fff;
+    font-family: 'Secular One' ;
+    text-decoration: underline;
+}
+
+.div_2{
+   
+    
+}
